@@ -1,0 +1,33 @@
+body{
+background-size: cover;
+
+}
+h3{
+  width: 100%;
+  margin-top: 0px;
+  font-size : 30px !important;
+  font-family: algerian;
+}
+
+.speed{
+    float:left;
+}
+.disk{
+  width: 200px;
+  border-radius: 100px;
+}
+
+.volume{
+    float:right;
+}
+.v-disk{
+  width: 200px;
+  border-radius: 100px;
+}
+canvas{
+  border-radius: 90px;
+  margin-top: 80px;
+  border-color: black;
+  border-width: 3px;
+  border-style: dashed;
+}
